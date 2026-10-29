@@ -1,7 +1,12 @@
-# ¡Vamos! Pearson Edexcel 1SP1 — My personal world pilot
+# ¡Vamos! Version 6 — Writing practice update
 
-Adds a dedicated original pilot unit under Topics with Foundation/Higher reading comprehension, independent writing tasks, speaking prompts and grammar checks. Preserves all Version 5 features and the `vamos-gcse-v1` browser progress key. Reading answers earn XP and are stored separately under `personalUnit`; writing drafts under `personalDrafts`.
+This release preserves Version 5 and the My personal world pilot, adds distinct Foundation picture-description (text-only substitute), 40–50-word, 80–90-word, and translation activities, and Higher 80–90-word, 130–150-word, and translation activities. Each includes original prompts, word count when applicable, independent drafts, self-checks and illustrative responses.
 
-**Important:** This is a specification-informed prototype, NOT a complete item-by-item audit against the Pearson prescribed vocabulary and grammar appendices. Existing legacy question cards remain visibly marked as unverified. Writing and speaking are self-assessment activities, not automatically marked official exam papers.
+## Safeguards
+- **Not official Pearson material**. Tasks are original, format-informed classroom practice.
+- The picture activity is text-only, not equivalent to an actual photograph-based exam item.
+- Not a complete vocabulary/grammar appendix verification or a teacher/examiner mark.
+- Writing drafts are saved to `personalDraftsV6` within the existing `vamos-gcse-v1` localStorage state. All existing scores, XP and stamps remain.
+- Existing legacy quizzes remain labelled unverified.
 
-Reference: https://qualifications.pearson.com/content/dam/pdf/GCSE/Spanish/2024/specification-and-sample-assessments/gq000027-gcse-spanish-specification-2024-issue-2.pdf
+Upload `index.html` and `README.md` to the repository root, committing over existing files only after review.
