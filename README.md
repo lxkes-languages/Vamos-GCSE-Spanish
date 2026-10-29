@@ -1,12 +1,15 @@
-# ¡Vamos! GCSE Spanish — Version 2
+# ¡Vamos! GCSE Spanish — Version 3
 
-A mobile-friendly, independent Pearson Edexcel GCSE Spanish revision prototype for Foundation and Higher.
+Mobile-friendly GCSE Spanish revision prototype for Foundation and Higher learners, with an interactive miniature Spain map, seven clickable city destinations, five-question challenges, XP, revision stamps, and saved progress.
 
 ## Deploy
-Replace the existing `index.html` at the root of your GitHub repository with this file. GitHub Pages will redeploy automatically.
 
-## Included
-Dashboard, six navigation tabs, seven topic areas, five-question quizzes, Foundation/Higher selector, XP, streaks and local-device progress. Map and exam-practice tabs are clearly marked as upcoming features.
+Replace the existing repository-root `index.html` with this version. GitHub Pages remains configured to deploy from `main` / `(root)`. No external packages or build steps are needed.
 
-## Important
-Starter quiz questions are examples, not a complete official Pearson Edexcel question bank. Progress is saved in the browser on this device. Do not enter personal student information.
+## Data
+
+Progress is stored in browser localStorage under `vamos-gcse-v1`, the same key as previous versions, so existing XP and scores remain available on the same device/browser. New `stamps` data is additive. Progress is not synced across devices.
+
+## Educational note
+
+Questions are starter samples, not an official Pearson Edexcel question bank. The illustrated map is a stylised miniature illustration, not a precise geographic map. The app is independent and not affiliated with Pearson.
