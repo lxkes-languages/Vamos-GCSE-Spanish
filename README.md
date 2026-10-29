@@ -1,5 +1,7 @@
-# ¡Vamos! Mundo Hispano — Version 4
+# ¡Vamos! Mundo Hispano — Version 5
 
-Interactive world map with seven country adventures, miniature landmark scenes, cultural facts, country passport stamps, and the existing detailed Spain map. Existing quizzes, Foundation/Higher levels, XP, streaks, city stamps and progress are retained in localStorage (`vamos-gcse-v1`).
+Adds individual miniature country silhouettes and themed landmarks, a dedicated interactive Culture Passport tab with seven discovery quizzes and one-time +15 XP rewards, plus Word Match and a timed Speed Round in Games Arcade.
 
-Upload `index.html` and `README.md` to the root of your existing GitHub Pages repository.
+Preserves all existing site sections, Foundation/Higher levels, quiz bank, Spain city map, XP, streaks, city/country stamps and topic scores. Uses the same `vamos-gcse-v1` localStorage key and extends it with `cultureStamps`.
+
+Upload `index.html` and `README.md` into the root of the existing GitHub Pages repository; no new repository required.
