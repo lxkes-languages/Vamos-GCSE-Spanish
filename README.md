@@ -1,26 +1,12 @@
-# ¡Vamos! GCSE Spanish Revision
+# ¡Vamos! GCSE Spanish — Version 2
 
-A mobile-friendly, gamified GCSE Spanish revision website prototype for Foundation and Higher learners.
+A mobile-friendly, independent Pearson Edexcel GCSE Spanish revision prototype for Foundation and Higher.
 
-## Features
-- Seven revision areas
-- Foundation / Higher selector
-- Interactive five-question quizzes and mixed-topic challenge
-- XP, completion tracking, daily streaks and local device storage
-- Responsive dashboard
+## Deploy
+Replace the existing `index.html` at the root of your GitHub repository with this file. GitHub Pages will redeploy automatically.
 
-## Run locally
-Open `index.html` in a browser. No dependencies or build tools required.
+## Included
+Dashboard, six navigation tabs, seven topic areas, five-question quizzes, Foundation/Higher selector, XP, streaks and local-device progress. Map and exam-practice tabs are clearly marked as upcoming features.
 
-## Publish with GitHub Pages
-1. Create a new GitHub repository (e.g. `vamos-gcse-spanish`).
-2. Upload `index.html` and `README.md` to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, select **Deploy from a branch**, branch `main`, folder `/ (root)`, and Save.
-5. Wait for GitHub to provide your public Pages URL.
-
-## Curriculum note
-Starter quiz questions are original demonstration content, **not** a complete or validated Pearson Edexcel GCSE Spanish question bank. Before using as a full exam revision product, audit topic coverage, grammar, prescribed vocabulary and assessment formats against the current Pearson Edexcel specification. Listening/speaking assessment and secure accounts are not implemented yet.
-
-## Privacy
-Progress is saved in the browser's localStorage, not shared across devices. No student accounts or personal data collection.
+## Important
+Starter quiz questions are examples, not a complete official Pearson Edexcel question bank. Progress is saved in the browser on this device. Do not enter personal student information.
